@@ -1,7 +1,7 @@
 {
   "name": "www.AmberlyHoffman.com",
   "version": "1.0.0",
-  "description": "Professonal site for Amberly Hoffman",
+  "description": "Professonal site for Ms. Amberly Hoffman",
   "scripts": {
     "jekyll": "jekyll build --incremental --source src --destination build",
     "sass": "node-sass --source-map true --include-path src/sass --include-path node_modules src/sass/main.scss src/styles/bundle.css",
